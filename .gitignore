@@ -1,0 +1,15 @@
+# Compiled files
+*.pyc
+
+# Eclipse & PyDev stuff
+.project
+.pydevproject
+.settings
+
+# Sass
+.sass-cache
+~           
+
+# fabfile caches
+.coffeecache
+.minifycache
